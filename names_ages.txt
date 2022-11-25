@@ -1,0 +1,7 @@
+NAMES		Ages
+Edem		30
+Friday		80
+Monday		70
+Ephraim		40
+Dickson		50
+Okon		45
